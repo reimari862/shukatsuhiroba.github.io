@@ -87,4 +87,31 @@ li {
   .home-contect{
     margin-top: 20%;
   }
+  .h1 {
+    font-size: 0.8rem;
+  }
+  .h2 {
+    font-size: 0.8rem;
+  }
+  .p{
+    font-size: 0.4rem;
+  }
+  .h3{
+    font-size; 0.8rem;
+    border-width: thick;
+    border-bottom: 2px solid #0bd;
+  }
+  .h4{
+    font-size: 0.8rem;
+    border-width: thick;
+    border-bottom: 2px solid #0bd;
+  }
+  .h5{
+    font-size: 0.8rem;
+    border-width: thick;
+    border-bottom: 2px solid #0bd;
+  }
+  .li{
+    font-size: 0.4rem;
+  }
 }
