@@ -86,12 +86,12 @@ li {
 
   .main-nav {
     display: flex;
-    margin-top: 7px;
+    margin-top: 9px;
     list-style: none;
   }
 
   .main-nav li {
-    margin-left: 1.5px;
+    margin-left: 1.0px;
     font-size: 0.6rem;
   }
 
