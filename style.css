@@ -86,6 +86,7 @@ li {
 
   .main-nav {
     display: flex;
+    margin-top: 75px;
     list-style: none;
   }
 
