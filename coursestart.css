@@ -41,3 +41,46 @@ ol {
   margin-top:40px;
   font-size: 1.5rem;
 }
+
+@media(max-width: 600px){
+  body {
+    background-image: url(hongkong.jpg);
+    background-repeat: no-repeat;
+    background-size: 400px 200px;
+  }
+
+  h1 {
+    color: navy;
+    font-size: 1.0rem;
+    margin-left: 0px;
+  }
+
+  .main-nav {
+    display: flex;
+    margin-top: 11px;
+    list-style: none;
+  }
+
+  .main-nav li {
+    margin-left: 0.8px;
+    font-size: 0.6rem;
+  }
+
+  .page-header {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 0px;
+  }
+
+  h2 {
+    margin-left: 0px;
+    font-size: 0.8rem;
+  }
+
+  ol {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 10px;
+    font-size: 0.6rem;
+  }
+}
