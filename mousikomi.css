@@ -81,13 +81,12 @@ input[type="submit"]{
 }
 
 @media(max-width: 600px){
-  body {
-    background-image: url(hongkong.jpg);
-    background-repeat: no-repeat;
-    background-size: 400px 200px;
+  .body {
+    background-image: url(papper.jpg);
+    background-size: cover;
   }
 
-  h1 {
+  .h1 {
     color: navy;
     font-size: 1.0rem;
     margin-left: 0px;
