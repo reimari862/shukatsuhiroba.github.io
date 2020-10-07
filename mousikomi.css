@@ -83,7 +83,8 @@ input[type="submit"]{
 @media(max-width: 600px){
   .body {
     background-image: url(papper.jpg);
-    background-size: 1500px 1000px;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
 
   .h1 {
