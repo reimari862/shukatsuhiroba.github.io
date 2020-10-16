@@ -3,7 +3,7 @@
 body {
   background-image: url(hongkong.jpg);
   background-repeat: no-repeat;
-  background-size: 1400px 210px;
+  background-size: 0px 0px;
 }
 
 h1 {
@@ -51,7 +51,7 @@ img{
   body {
     background-image: url(hongkong.jpg);
     background-repeat: no-repeat;
-    background-size: 400px 200px;
+    background-size: 0px 0px;
   }
 
   h1 {
