@@ -1,10 +1,5 @@
 @charset "UTF-8";
 
-body {
-  background-image: url(papper.jpg);
-  background-size: ;
-}
-
 h1 {
   color: navy;
   font-size: 4.0rem;
@@ -81,12 +76,7 @@ input[type="submit"]{
 }
 
 @media(max-width: 600px){
-  body {
-    background-image: url(papper.jpg);
-    background-repeat: no-repeat;
-    background-size: ;
-  }
-
+  
   h1 {
     color: navy;
     font-size: 1.0rem;
