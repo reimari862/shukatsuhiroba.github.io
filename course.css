@@ -58,18 +58,18 @@ h3{
 
   h1 {
     color: navy;
-    font-size: 1.0rem;
+    font-size: 0.9rem;
     margin-left: 0px;
   }
 
   .main-nav {
-    display: flex;
+    display: wrap;
     margin-top: 11px;
     list-style: none;
   }
 
   .main-nav li {
-    margin-left: 0.8px;
+    margin-left: 0.6px;
     font-size: 0.6rem;
   }
 
