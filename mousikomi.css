@@ -75,8 +75,19 @@ input[type="submit"]{
   margin-left: 20px;
 }
 
+img{
+  width: 420px;
+  height: 240px;
+  margin-left: 65px;
+}
+
 @media(max-width: 600px){
-  
+  body {
+    background-image: url(papper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
   h1 {
     color: navy;
     font-size: 1.0rem;
@@ -108,5 +119,11 @@ input[type="submit"]{
   p{
     margin-left: 0.6px;
     line-height: 1.0;
+  }
+  
+  img{
+    width: 420px;
+    height: 240px;
+    margin-left: 0px;
   }
 }
