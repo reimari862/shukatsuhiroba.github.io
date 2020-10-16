@@ -97,12 +97,12 @@ li {
   }
 
 
-  h2 {
+  .h2 {
     font-size: 1.2rem;
     margin-left: 0px;
   }
 
-  p {
+  .p {
     margin-left: 0px;
     font-size: 0.6rem;
     margin-right: 0px;
@@ -119,21 +119,21 @@ li {
     border-bottom: 2px solid #0bd;
   }
 
-  h4{
+  .h4{
       font-size: 0.8rem;
       margin-left: 0px;
       border-width: thick;
       border-bottom: 2px solid #0bd;
     }
 
-  h5{
+  .h5{
       font-size: 0.8rem;
       margin-left: 0px;
       border-width: thick;
       border-bottom: 2px solid #0bd;
     }
 
-  li {
+  .li {
     margin-left: 0px;
     font-size: 0.6rem;
   }
