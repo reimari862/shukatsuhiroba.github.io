@@ -61,7 +61,7 @@ img{
   }
 
   .main-nav {
-    display: flex;
+    display: wrap;
     margin-top: 11px;
     list-style: none;
   }
