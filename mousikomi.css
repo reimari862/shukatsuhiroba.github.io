@@ -81,13 +81,13 @@ input[type="submit"]{
 }
 
 @media(max-width: 600px){
-  .body {
+  body {
     background-image: url(papper.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   }
 
-  .h1 {
+  h1 {
     color: navy;
     font-size: 1.0rem;
     margin-left: 0px;
