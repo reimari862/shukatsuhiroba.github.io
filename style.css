@@ -50,13 +50,13 @@ h3{
 }
 
 @media(max-width: 600px){
-  body {
+ .body {
     background-image: url(hongkong.jpg);
     background-repeat: no-repeat;
     background-size: 400px 200px;
   }
 
-  h1 {
+ .h1 {
     color: navy;
     font-size: 1.0rem;
     margin-left: 0px;
