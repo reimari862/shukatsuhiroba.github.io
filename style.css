@@ -8,19 +8,20 @@ body {
 
 h1 {
   color: navy;
-  font-size: 4.0rem;
+  font-size: 3.8rem;
   margin-left: 30px;
 }
 
 .main-nav {
   display: flex;
+  font-size: 1.1rem;
+  text-transform: uppercase;
   margin-top: 75px;
   list-style: none;
 }
 
 .main-nav li {
   margin-left: 30px;
-  font-size: 1.2rem;
 }
 
 .page-header {
@@ -32,54 +33,30 @@ h1 {
 
 h2 {
   font-size:2.8rem;
-  margin-left:270px;
+  margin-left:20px;
 }
 
-p {
-  margin-left: 325px;
-  font-size: 1.7rem;
-  margin-right:150px;
+p{
+  margin-left: 20px;
+  margin: 1.2px;
 }
 
-.container{
-  display: flex;
+table {
+  margin-left: 20px;
 }
 
 h3{
-  font-size:2.3rem;
-  margin-left:270px;
-  border-width: thick;
-  border-bottom: 2px solid #0bd;
-}
-
-h4{
-    font-size:2.3rem;
-    margin-left:270px;
-    border-width: thick;
-    border-bottom: 2px solid #0bd;
-  }
-
-h5{
-    font-size:2.3rem;
-    margin-left:270px;
-    border-width: thick;
-    border-bottom: 2px solid #0bd;
-  }
-
-li {
-  margin-left: 325px;
-  font-size: 1.7rem;
+  margin-left:
 }
 
 @media(max-width: 600px){
-  
-  .body {
+  body {
     background-image: url(hongkong.jpg);
     background-repeat: no-repeat;
     background-size: 400px 200px;
   }
 
-  .h1 {
+  h1 {
     color: navy;
     font-size: 1.0rem;
     margin-left: 0px;
@@ -102,45 +79,21 @@ li {
     margin-right: 0px;
   }
 
-
   .h2 {
-    font-size: 1.2rem;
+    font-size:0.8rem;
+    margin-left:0px;
+  }
+
+  .p{
+    margin-left: 0.6px;
+    margin: 0px;
+  }
+
+  .table {
     margin-left: 0px;
   }
 
-  .p {
-    margin-left: 0px;
-    font-size: 0.6rem;
-    margin-right: 0px;
-  }
-
-  .container{
-    display: flex;
-  }
-
-  h3{
-    font-size: 0.8rem;
-    margin-left: 0px;
-    border-width: thick;
-    border-bottom: 2px solid #0bd;
-  }
-
-  .h4{
-      font-size: 0.8rem;
-      margin-left: 0px;
-      border-width: thick;
-      border-bottom: 2px solid #0bd;
-    }
-
-  .h5{
-      font-size: 0.8rem;
-      margin-left: 0px;
-      border-width: thick;
-      border-bottom: 2px solid #0bd;
-    }
-
-  .li {
-    margin-left: 0px;
-    font-size: 0.6rem;
+  .h3{
+    margin-left:
   }
 }
