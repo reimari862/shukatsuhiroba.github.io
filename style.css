@@ -72,13 +72,8 @@ li {
 }
 
 @media(max-width: 600px){
-  body {
-    background-image: url(hongkong.jpg);
-    background-repeat: no-repeat;
-    background-size: 380px 130px;
-  }
 
-  h1 {
+  .h1 {
     color: navy;
     font-size: 1.0rem;
     margin-left: 0px;
