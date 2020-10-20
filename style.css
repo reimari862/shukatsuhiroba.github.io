@@ -80,13 +80,13 @@ li {
 
   h1 {
     color: navy;
-    font-size: 1.2rem;
+    font-size: 1.0rem;
     margin-left: 0px;
   }
 
   .main-nav {
     display: flex;
-    margin-top: 15px;
+    margin-top: 11px;
     list-style: none;
   }
 
